@@ -1,5 +1,5 @@
 if ARGV.length != 2
-  puts 'Usage: ruby bot.rb <token> <client_id>'
+  puts 'Usage: ruby bot.rb token client_id'
   exit
 end
 require 'rubygems'
